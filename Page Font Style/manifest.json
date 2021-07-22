@@ -16,6 +16,11 @@
         "scripts": ["eventPage.js"],
         "persistent": false
     },
+    "content_scripts":[
+        {
+            "matches":["https://developer.chrome.com/*"]
+        }
+    ],
     "permissions":[
         "tabs"
     ]
