@@ -1,15 +1,22 @@
 # Chrome Extensions
 Extension development.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Chrome Extensions](#chrome-extensions)
+  - [Introduction](#introduction)
+    - [Extensions](#extensions)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 A repository for chrome extension development.
+
+### Extensions
+1. Budget Manager
+2. Extension Development
+3. Hello World
 
 ## Technologies
 - HTML
