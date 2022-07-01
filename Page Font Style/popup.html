@@ -3,10 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <title>Page Font Style</title>
+    <script src="jquery-3.6.0.min.js"></script>
+    <script src="jscolor.min.js"></script>
     <script src="popup.js"></script>
+    <style>
+      body {
+        min-width: 285px;
+        min-height: 150px;
+      }
+    </style>
   </head>
   <body>
-    <input type="text" id="fontColor" />
+    <input type="text" id="fontColor" value="" data-jscolor="{}" />
     <input type="submit" id="btnChange" value="Change" />
   </body>
 </html>

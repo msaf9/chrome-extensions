@@ -17,6 +17,7 @@ A repository for chrome extension development.
 1. Budget Manager
 2. Extension Development
 3. Hello World
+4. Page Font Style
 
 ## Technologies
 - HTML
