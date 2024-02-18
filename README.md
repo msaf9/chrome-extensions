@@ -30,8 +30,8 @@ A repository for chrome extension development.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/ChromeExtensions.git
-cd ChromeExtensions
+git https://github.com/msaf9/chrome-extensions.git
+cd chrome-extensions
 ```
 
 ## License
