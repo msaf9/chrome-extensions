@@ -1,14 +1,15 @@
 # Chrome Extensions
 Extension development.
 
-- [Chrome Extensions](#chrome-extensions)
-  - [Introduction](#introduction)
-    - [Extensions](#extensions)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
+<h2>Table of contents</h2>
+
+- [Introduction](#introduction)
+  - [Extensions](#extensions)
+- [Web Technologies](#web-technologies)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+- [License](#license)
 
 ## Introduction
 A repository for chrome extension development.
@@ -19,7 +20,7 @@ A repository for chrome extension development.
 3. Hello World
 4. Page Font Style
 
-## Technologies
+## Web Technologies
 - HTML
 - CSS
 - JavaScript
